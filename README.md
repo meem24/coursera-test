@@ -1,4 +1,4 @@
-Document Classification Service
+## Document Classification Service
 
 This project is a document classification service that utilizes the Donut model for classifying different types of documents. The service processes PDF files, converts them into images, and runs inference using a pre-trained model to determine the document type. The results are structured in JSON format and stored in a MinIO object storage.
 
